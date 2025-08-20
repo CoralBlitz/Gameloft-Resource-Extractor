@@ -1,4 +1,4 @@
-# Gameloft-Resource-Extractor
+# Gameloft Resource Extractor
 A fast and user-friendly GUI tool to extract **resources** (MIDI, images, audio, texts, ZIP) from **Gameloft JAR games**.  
 Supports XOR decryption, automatic detection of embedded files, and preview.
 

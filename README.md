@@ -17,9 +17,13 @@ Supports XOR decryption, automatic detection of embedded files, and preview.
 - Multi-threaded extraction for speed
 - Detailed log output with throttled UI rendering
 - uilt using [Flet](https://flet.dev) for modern cross-platform GUI
-
+- 
 ## How to Run
 
 - git clone https://github.com/Coralblitz/gameloft-resource-extractor.git
 - pip install -r requirements.txt
 - python extractor.py
+
+## Screenshots
+
+<img width="1259" height="864" alt="изображение" src="https://github.com/user-attachments/assets/4a671166-e41b-4dd3-8b88-86296e6faa69" />
